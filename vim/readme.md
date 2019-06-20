@@ -64,5 +64,3 @@ vim启动即进入到普通模式，处于插入模式或命令行模式时只�
 **普通模式下退出vim**  
 输入*shift+zz*即可保存并退出了
 
-<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
-<font color=red>内容</font> 
