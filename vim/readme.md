@@ -53,7 +53,7 @@ vim启动即进入到普通模式，处于插入模式或命令行模式时只�
 ![图](https://github.com/liytgy/linux/blob/master/vim/e%20test.png)   
 当不小心输入vim进入vim后直接i插入信息，最后保存时会发现报错现象    
 ![图](https://github.com/liytgy/linux/blob/master/vim/e32.png)  
-此时，可以重新进入命令行模式，输入*w 文件名*来创建文件    
+此时，可以重新进入命令行模式，输入*w 文件名*来另存为文件    
 ![图](https://github.com/liytgy/linux/blob/master/vim/w.png)    
 成功界面  
 ![图](https://github.com/liytgy/linux/blob/master/vim/ok.png)  
@@ -61,6 +61,7 @@ vim启动即进入到普通模式，处于插入模式或命令行模式时只�
 **命令行界面退出vim**  
 - 输入*wq*保存并退出  
 - 输入*q!* 强制退出不保存
+- 输入*x*保存并退出  
 **普通模式下退出vim**  
 输入*shift+zz*即可保存并退出了
 
